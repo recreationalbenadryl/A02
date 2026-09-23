@@ -1,1 +1,15 @@
 hello
+
+Step 1. Create your GitHub account.
+Step 2. Create a repo on GitHub by going to your main profile. Once there, you will see Overview - Repositories - Projects - Packages - Stars above your profile picture. 
+Step 3. Go to the repositories tab, and in the top right corner there will be a green button that says new. Click it, and name the repo A02 for our sake, or anything really.
+Step 4. Once that is created, you may go to file explorer and make a folder. It can be named anything. 
+Step 5. Go into said folder, create any file at all, then open the folder with command prompt.
+Step 6. Once command prompt is pulled up, enter the following:
+>git init
+>git add .
+>git commit -m "initial commit" (This could be any comment you want, doesn't have to be what I write"
+>git remote add origin (insert your link here)
+>git push origin main OR git push origin master
+
+Once done, your GitHub repository should display your folder. And you're done!
